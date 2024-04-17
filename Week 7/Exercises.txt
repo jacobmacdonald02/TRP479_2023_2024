@@ -1,0 +1,15 @@
+Problem 1
+read in the file `Hist_stations.txt`
+check the first and last 5 rows using the head() and tail() methods
+check the datatypes using the .dtypes attribute
+create new columns for latitude and longitude and extract the relevant information from the location attribute (tip: take a few minutes to work out which value is which).
+Tip: you may want to look at the .split() string method which splits a string based on a charater; e.g.  `.str.split(" ")` will split a string where there is a whitespace; `.str.split(":")` will split a string based on a colon (:) etc
+
+
+Problem 2
+read in the file ‘Sheffield_weather.txt’
+this file uses whitespace as a delimiter between values rather than a comma. (tip: the parameter delim_whitespace is false by default and specifies whether or not whitespace (e.g. ' ' or '    ') will be used as the delimiter.)
+create a 'YEAR_MONTH' columnt to hold a uniques identifier for each entry
+Tip: the pandas method `astype(str)` will convert a numerical format into a string (obejct) format; e.g. data['year'].astype(str) will convert an integer 'year' value to a string value.
+calculate the average yearly temperature from 1883 to 2020
+Tip: to convert string to float use pd.to_numeric(dataframe["year"], errors='coerce') - this last statement forces and non-numerical characters to a NaN value (which is ignored in computations)Spring is considered to be the months March, April and May; calculate the average Spring rainfall since 1883

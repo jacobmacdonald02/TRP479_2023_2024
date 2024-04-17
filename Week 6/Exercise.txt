@@ -1,0 +1,27 @@
+EXERCISE:
+
+Once you have completed the 2 notebooks for this week, have a go at the tasks here:
+ 
+Problem:
+
+The data we were working with today is a little bit awkward. Firstly, each day has two records associated with it, a 09:00 record and an 21:00 record. Secondly, each record has a maximum recorded temperature and minimum recorded temperature for the preceding 12 hours.
+ 
+Your task is to make this into a more useful dataset. Some suggested tasks are below: 
+
+
+
+Tasks:
+
+Open a new notebook and load the dataset we have been working with today
+
+Create a dataframe with only daytime records
+
+Create a dataframe with only night time records
+
+Add a new variable to each dataframe with the average daily daytime or night time temperatures (you can assume it is the difference between the minimum and maximum for each period).
+
+Write each dataframe to a file
+
+Find the minimum and maximum temperatures in the whole of each 24 hour period  
+
+We are going to look at datetime manipulation next week, but see if you can work out how to calculate the median day time temperature for each month (you may need to use indexes).
