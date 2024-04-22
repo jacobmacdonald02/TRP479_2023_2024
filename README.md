@@ -1,14 +1,22 @@
 # TRP479: Spatial Data Science for Social Scientists
 
-[(AY 2023/24)]{.underline}
+(AY 2023/24)
+
+&nbsp;
 
 This is a repository created for the module TRP479 in Spring 2024. It primarily holds the code for the Google CoLab notebooks that we will be using.
 
 Slides and other resources are available on Blackboard. (.gitignore file has been updated to remove powerpoints; Google slides and PDFs.)
 
+&nbsp;
+
 ***Ruth Hamilton and Jacob Macdonald***
 
-[*Weekly Class Schedule:*]{.underline}
+&nbsp;
+
+&nbsp;
+
+*Weekly Class Schedule:*
 
 -   Week 1: Data science: History, context and core concepts
 
