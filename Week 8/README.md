@@ -1,7 +1,13 @@
-# Lesson 7: Data Visuals and Plotting in Pandas (Week 8)
+# Week 8: Data visuals and plotting in pandas *(Python Lesson 7)*
 
+-   Lecture
 
-- Lecture	- Python basics: data visuals and plotting in python- Colab notebook 1: matlibplot in python- Colab notebook 2: advanced plotting
+    -   Python basics: data visuals and plotting in python
 
+-   Colab notebook 1: matlibplot in python
 
-(Materials available on blackboard)
+-   Colab notebook 2: advanced plotting
+
+-   Exercise sheet
+
+*(Materials available on blackboard)*

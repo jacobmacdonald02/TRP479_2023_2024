@@ -1,7 +1,15 @@
-# Lesson 4: Data Science Project Management; Ethics (Week 5)
+# Week 7: Data processing in pandas II *(Python Lesson 6)*
 
+-   Lecture
 
-https://docs.google.com/presentation/d/13GUb0En0ukvy8nY2dKjKn17Ye8npS-N1kvtKvvbxlyw/edit?usp=sharing
+-   Colab notebook 1: advanced data processing in pandas
 
+-   Colab notebook 2: working with/ interpreting errors
 
-(Materials available on blackboard)
+-   Colab notebook 3: python asserts
+
+-   Colab notebook 4: debugging
+
+-   Exercise sheet
+
+*(Materials available on blackboard)*
